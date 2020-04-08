@@ -1,0 +1,16 @@
+{
+  "appName": "Corona Tracker",
+  "confirmedTitle": "Confirmed",
+  "deathsTitle": "Deaths",
+  "recoveredTitle": "Recovered",
+  "onlineStatus": "Online",
+  "offlineStatus": "Offline",
+  "worldwide": "Worldwide",
+  "themeTitle": "Theme",
+  "dartModeTitle": "Dark mode",
+  "languageTitle": "Language",
+  "filterWithTitle": "Filter with",
+  "activeTitle": "active",
+  "backAgainToLeaveMessage": "Tap back again to leave",
+  "topAffectedCountries": "Top affected countries"
+}
